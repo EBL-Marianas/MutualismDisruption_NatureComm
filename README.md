@@ -14,4 +14,3 @@ seeds.fit2sim.R - Simulate data given a kernel and parameters
 filled.contour.plt - Customized filled contour plots
 filled.contour.key - Customized filled contour plot key
 minor.ticks.axis - Customized plot axes
-
